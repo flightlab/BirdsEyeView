@@ -1,7 +1,7 @@
 Authors (@[Altshuler Lab](https://altshuler.zoology.ubc.ca/), UBC):   
-[Bhaskar Yechuri](bhaskar.yechuri@gmail.com) - Engineering Technician & Research Assistant,   
-[Nick Tochor](flighttech@zoology.ubc.ca) - Lab Manager & Research Assistant,   
-[Doug Altshuler](doug@zoology.ubc.ca) - Principal Investigator
+_[Bhaskar Yechuri](bhaskar.yechuri@gmail.com)  (Engineering Technician & Research Assistant)    
+[Nick Tochor](flighttech@zoology.ubc.ca)       (Lab Manager & Research Assistant)   
+[Doug Altshuler](doug@zoology.ubc.ca)          (Principal Investigator)_
 
 # Birds-Eye-View Project
 
