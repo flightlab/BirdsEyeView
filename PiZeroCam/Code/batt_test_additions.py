@@ -50,7 +50,7 @@ print("Memory available = " + str(psutil.disk_usage('/').free/1024/1024/1024))
 
 #keep recording until memory runs low or time_limit hasn't been reached
 #create a new folder for each recording session, within which a number lists of sub-videos will be created
-filename = "video at " + time.strftime("%H:%M:%S",time.localtime())
+filename = "video_at_" + time.strftime("%H_%M_%S",time.localtime())
 foldername = '/home/pi/Desktop/' + filename + "/"
 if not os.path.exists(foldername):
     os.makedirs(foldername)
