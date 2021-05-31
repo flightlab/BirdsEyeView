@@ -1,3 +1,9 @@
+#Author: Bhaskar Yechuri (bhaskar.yechuri@gmail.com) - Altshuler Lab, 2021
+
+#This script does the same as the camera_split script, but contains added functionality to stop recording and quit the program when the power regulator indicates "low battery" through one of the Pi's GPIO pins
+#However, moments of high current draw can result in the power regulator spuriously outputting the "low battery" signal, resulting in the Pi quitting the program unnecessarily.
+#Therefore, this feature needs a bit more testing/development, and it's best to stick with the older script to prevent unexpected behaviour
+
 import picamera
 import time
 import os
