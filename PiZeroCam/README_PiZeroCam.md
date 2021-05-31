@@ -1,4 +1,4 @@
-# Instructions on how to use this device:
+# Instructions on how to use the Pi Zero Cam:
 1. Connect a LiPo battery to the smaller blue power regulator board mounted onto the Pi Zero. 
    1. Once this is done, an LED should light up on the Pi Zero and on the power regulator board showing that the device is powered 
    2. (_NOTE: ensure that the battery is adequately charged before connecting it to the device. A over-depleted LiPo battery can overheat and be dangerous to use_)
