@@ -1,4 +1,4 @@
-Authors (@[Altshuler Lab](https://altshuler.zoology.ubc.ca/), UBC):   
+Authors (@[Altshuler Lab](https://altshuler.zoology.ubc.ca/), University of British Columbia - Vancouver):   
 _[Bhaskar Yechuri](mailto:bhaskar.yechuri@gmail.com)  (Engineering Technician & Research Assistant)    
 [Nick Tochor](mailto:flighttech@zoology.ubc.ca)       (Lab Manager & Research Assistant)_
 
